@@ -1,0 +1,1 @@
+# Aplikacja "Chmura słów", która powstała w zasadzie tylko do jednego projektu na angielski, pozdrawiam 😘
